@@ -8,7 +8,7 @@ ListFilters
 
 Возможно фильтровать (заполнено, равно, больше, меньше, подобно, быстрый поиск) по всем полям страниц и одновременно по нескольким критериям .
 
-Пример работы плагина List Filters: http://dietcoacher.ru/dietology/diets/
+
 
 Похожий плагин был разработан Гертом - [listfilters](https://www.cotonti.com/extensions/navigation-structure/listfilters)
 
